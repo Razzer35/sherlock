@@ -35,7 +35,7 @@
 
 ```console
 # clone the repo
-$ git clone https://github.com/sherlock-project/sherlock.git
+$ git clone https://github.com/Razzer35/sherlock
 
 # change the working directory to sherlock
 $ cd sherlock
